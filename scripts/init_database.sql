@@ -1,7 +1,7 @@
 /********************************************************************************************
  Script Name : Create DataWarehouse Database with Layered Schemas
- Author      : [Your Name]
- Date        : [YYYY-MM-DD]
+ Author      : Mohamed Ghanaym
+ Date        : [2025-09-27]
 
  Description : 
    This script drops the existing 'DataWarehouse' database (if it exists) and recreates it. 
