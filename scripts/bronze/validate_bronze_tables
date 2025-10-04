@@ -1,0 +1,7 @@
+-- Check that the data are loaded into the correct columns
+SELECT *
+FROM bronze.erp_px_cat_g1v2
+
+-- Check the number of rows matches the number of rows in the source
+SELECT COUNT(*)
+FROM bronze.erp_px_cat_g1v2
